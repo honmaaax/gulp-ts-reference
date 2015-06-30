@@ -1,0 +1,31 @@
+{
+  "name": "gulp-ts-reference",
+  "version": "1.0.0",
+  "description": "ts-reference plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honmaaax/gulp-ts-reference.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "typescript",
+    "tsd",
+    "ts"
+  ],
+  "author": "honmaaax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/honmaaax/gulp-ts-reference/issues"
+  },
+  "homepage": "https://github.com/honmaaax/gulp-ts-reference#readme",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
+  }
+}
